@@ -60,5 +60,4 @@ var quation_valve:number = (((10+5)*3-2)/(4%3)-7);
 // result of formala
 
 console.log("result of formal here,quation_value")
-
-
+console.log("result of formal here,quation_value")
